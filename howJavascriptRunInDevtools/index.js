@@ -1,3 +1,5 @@
+debugger// debugger we can pause the execution phase using debugger keyword
+console.log(firstName)
 var firstName='Kislay'
 let lastName='Kumar'
 let age=24;
